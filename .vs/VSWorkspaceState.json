@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\cart",
+    "\\src\\components\\products",
+    "\\src\\containers",
+    "\\src\\redux",
+    "\\src\\redux\\actions",
+    "\\src\\redux\\reducers"
+  ],
+  "SelectedNode": "\\src\\containers\\App_container.js",
+  "PreviewInSolutionExplorer": false
+}
